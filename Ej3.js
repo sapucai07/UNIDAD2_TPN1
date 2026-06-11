@@ -1,0 +1,1 @@
+let temperaturaActual = 37.1 ;
