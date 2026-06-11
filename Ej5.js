@@ -1,0 +1,1 @@
+let nota1 = 8,  nota2 = 6,  nota3 = 3;
